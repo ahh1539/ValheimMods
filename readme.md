@@ -1,41 +1,7 @@
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
-
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -80,9 +46,9 @@ InSlimVLM is a mod loader that you will need in order to run your mods that you 
 3) Make sure that you are using .NET Framework 4.7.2
 4) Comment out ```PostBuildEvent``` in the ```AlexValheimTest.csproj``` file (we will come back to this)
 5) On the Solution Explorer view add the following dependencies
-    1) 
-    2)
-    3)
+    1) placeholder
+    2) placeholder
+    3) placeholder
 6) Build the project and copy the file path from the output view shown below
 7) Find your projects .dll file from the build
 8) Go back to Valheim game files ```Steam\steamapps\common\Valheim\InSlimVML\Mods```
@@ -105,7 +71,6 @@ Alex Hurley - [@your_twitter](https://twitter.com/your_username) - beast1258@gma
 Project Link: [https://github.com/ahh1539/ValheimMods](https://github.com/ahh1539/ValheimMods)
 
 
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
@@ -119,8 +84,6 @@ Project Link: [https://github.com/ahh1539/ValheimMods](https://github.com/ahh153
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
-
-
 
 
 
