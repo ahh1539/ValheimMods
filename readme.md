@@ -10,7 +10,6 @@ This is meant to act as a guide for anyone trying to get started with modding in
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [.NET Framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework/net472)
 * [Visual Studio](https://visualstudio.microsoft.com/vs/older-downloads/)
 * [InSlimVLM](https://www.nexusmods.com/valheim/mods/21?tab=description)
