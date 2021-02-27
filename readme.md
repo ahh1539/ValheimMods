@@ -32,6 +32,9 @@ InSlimVLM is a mod loader that you will need in order to run your mods that you 
 1) Open up the zip file from the InSlimVLM download and select all of the files inside of the zip
 2) Copy those files into Valheim game files ```Steam/steamapps/common/Valheim/```
 3) Replace the existing files with the new ones when prompted
+4) Also download https://cdn.discordapp.com/attachments/811730725900386344/814475805584261140/winhttp.dll
+5) Replace ```winhttp.dll``` in ```Steam\steamapps\common\Valheim``` with the new version (This enables logging in ```Steam\steamapps\common\Valheim\InSlimVML\```for debug purposes)
+6) Run Valheim and view the homepage to see that VlmSlim is running
 
 ### Using DnSpy to decompile the game code
 1) Download the latest release zip file from https://github.com/dnSpy/dnSpy
