@@ -62,7 +62,6 @@ InSlimVLM is a mod loader that you will need in order to run your mods that you 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-
 <!-- CONTACT -->
 ## Contact
 
