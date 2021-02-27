@@ -43,9 +43,10 @@ InSlimVLM is a mod loader that you will need in order to run your mods that you 
 3) Make sure that you are using .NET Framework 4.7.2
 4) Comment out ```PostBuildEvent``` in the ```AlexValheimTest.csproj``` file (we will come back to this)
 5) On the Solution Explorer view add the following dependencies
-    1) placeholder
-    2) placeholder
-    3) placeholder
+    1) ```Steam\steamapps\common\Valheim\InSlimVML\Mods\0Harmony.dll```
+    2) ```Steam\steamapps\common\Valheim\valheim_Data\Managed\assembly_valheim.dll```
+    3) ```Steam\steamapps\common\Valheim\valheim_Data\Managed\UnityEngine.dll```
+	4) ```Steam\steamapps\common\Valheim\valheim_Data\Managed\UnityEngine.CoreModule.dll```
 6) Build the project and copy the file path from the output view shown below
 7) Find your projects .dll file from the build
 8) Go back to Valheim game files ```Steam\steamapps\common\Valheim\InSlimVML\Mods```
