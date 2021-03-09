@@ -55,6 +55,16 @@ InSlimVLM is a mod loader that you will need in order to run your mods that you 
 11) Congrats you made your first mod
 
 
+### Optional Steps
+You can automatically have your .dll file go straight into the InSlimVLM folder using a ```PostBuildEvent```
+1) Upon building your project, look for the direectory in which the .dll file is saved
+2) Copy the filepath for the .dll file (Shift + Right Click on the file name and select Copy as Path)
+3) Go back to the ```AlexValheimTest.csproj``` file and uncomment out the ```PostBuildEvent```
+4) Copy and paste the file path into the first part
+5) Go and copy your ```Steam\steamapps\common\Valheim\InSlimVML\Mods``` filepath in the same way
+6) Paste that path into the second set of quotes
+7) Now when you build it will automatically save the .dll file to the proper location
+
 <!-- CONTACT -->
 ## Contact
 
@@ -66,4 +76,4 @@ Project Link: [https://github.com/ahh1539/ValheimMods](https://github.com/ahh153
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* https://github.com/matt-harp
+* [Night](https://github.com/matt-harp)
